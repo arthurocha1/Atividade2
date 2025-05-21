@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35913.81 d17.13
+VisualStudioVersion = 17.13.35913.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "savio-projeto3", "savio-projeto3\savio-projeto3.csproj", "{FD83B6D8-52C5-4814-BFAA-C39834B20227}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaBiblioteca", "savio-projeto3\SistemaBiblioteca.csproj", "{FD83B6D8-52C5-4814-BFAA-C39834B20227}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

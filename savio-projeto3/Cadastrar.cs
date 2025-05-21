@@ -10,6 +10,9 @@ namespace savio_projeto3
 {
     public class Livro 
     {
+        internal object disponivel;
+        
+        public int Id { get; set; }
         public string Titulo { get; set; }
         public  string Autor { get; set; }
         public int Ano { get; set; }
